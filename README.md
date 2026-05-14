@@ -35,8 +35,41 @@ order_details fact table.
 ## 🛠️ Tools Used
 
 - Power BI (Data Modelling & Visualization)
+  
+ Business Insights Possible
+📈 Sales Analysis
+✅ Total revenue by day / week / month
+✅ Revenue growth trend over time
+✅ Best performing sales period
+✅ Slowest sales period identification
+🍕 Menu Performance
+✅ Top 10 best selling menu items
+✅ Bottom 10 least selling menu items
+✅ Most profitable food category
+✅ Least ordered items 
+✅ Price vs quantity relationship
+⏰ Time Based Analysis
+✅ Peak ordering hours in a day
+✅ Busiest day of the week
+✅ Seasonal trends by month
+✅ Off peak hours identification
+✅ Hour wise revenue breakdown
+💰 Cost Analysis
+✅ High cost vs low cost orders
+✅ Average order value
+✅ Cost category distribution
+✅ Revenue per order analysis
 
-## 📊 Schema
+📌  Overall Summary
+This restaurant dataset is a well-structured Star Schema
+model that enables deep analysis of:
 
-Star Schema — order_details as fact table,
-menu_items and Calendar as dimension tables.
+🍽️  Menu Performance
+📅  Time Based Trends
+💰  Revenue & Cost Patterns
+⏰  Peak Hour Identification
+
+The custom Calendar table adds powerful time intelligence
+capabilities making this dataset ideal for building
+professional Power BI dashboards and deriving
+actionable business insights for restaurant management.
