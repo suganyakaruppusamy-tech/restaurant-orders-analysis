@@ -26,7 +26,7 @@ order_details fact table.
 
 ## 🎯 Use Cases
 
-- Sales trend analysis by date and hour
+- Sales trend analysis by AOV and number of weeks
 - Menu item performance tracking
 - Category-wise revenue breakdown
 - Peak hour identification
@@ -35,7 +35,6 @@ order_details fact table.
 ## 🛠️ Tools Used
 
 - Power BI (Data Modelling & Visualization)
-- SQL / Excel (Data Preparation)
 
 ## 📊 Schema
 
