@@ -82,7 +82,7 @@ This project transforms raw restaurant transaction data into interactive dashboa
 - **AOV Trend**: Stable around $29.5–30.5, peak at Week 9 ($32.05).  
 - **Peak Hours**: Lunch (12–1 PM) and Dinner (5–6 PM).  
 - **Customer Segmentation**: Regular spenders ($20–$49) dominate, Dinner is prime revenue window.  
-By leveraging these insights, restaurants can optimize menus, pricing, promotions, and operations to improve profitability and customer satisfaction.
+
 ---
 
 ## 🏁 Conclusion
@@ -90,4 +90,6 @@ This project highlights clear customer behavior patterns:
 - Italian and Asian cuisines dominate sales.  
 - Lunch and dinner are peak demand periods.  
 - Regular spenders drive consistent revenue.  
-- Low‑performing items need repositioning or promotions.  
+- Low‑performing items need repositioning or promotions.
+- 
+By leveraging these insights, restaurants can optimize menus, pricing, promotions, and operations to improve profitability and customer satisfaction.
